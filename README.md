@@ -19,7 +19,7 @@ Clone this repository:
 
 ```
 git clone https://github.com/thisaccountname/Steamy-Comments.git
-cd Steamy-Comments
+cd SteamyComments
 ```
 Install the required dependencies:
 ```
@@ -27,10 +27,10 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-1. Open a terminal and navigate to the src directory.
-2. Run the script with a Steam Workshop URL:
+1. Open a terminal and navigate to the SteamyComments directory.
+2. Run the script with a Steam Workshop URL, for example:
 ```
-python steamy_comments.py "https://steamcommunity.com/sharedfiles/filedetails/?id=3118990099"
+python steam_comments.py "https://steamcommunity.com/sharedfiles/filedetails/?id=3118990099"
 ```
 
 The script will generate an HTML file named after the Workshop item title, followed by the current date and time.
@@ -38,7 +38,7 @@ The script will generate an HTML file named after the Workshop item title, follo
 ## Example
 
 ```
-python steam_comments_fetcher.py "https://steamcommunity.com/sharedfiles/filedetails/?id=3118990099"
+python steam_comments.py "https://steamcommunity.com/sharedfiles/filedetails/?id=3118990099"
 ```
 
 Output: `True Music Jukebox - All Comments - 20241108 16_46.html`
