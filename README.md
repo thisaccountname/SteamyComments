@@ -18,7 +18,7 @@ No more Ctrl+F'ing on dozens of pages to see if you're the first person with an 
 Clone this repository:
 
 ```
-git clone https://github.com/thisaccountname/Steamy-Comments.git
+git clone https://github.com/thisaccountname/SteamyComments.git
 cd SteamyComments
 ```
 Install the required dependencies:
