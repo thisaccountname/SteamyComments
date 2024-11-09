@@ -4,8 +4,7 @@ Easily fetch all comments from a Steam Workshop item and export them into a neat
 
 No more Ctrl+F'ing on dozens of pages to see if you're the first person with an issue using a mod!
 
-![image](https://github.com/user-attachments/assets/a81c26e8-804b-44b6-95ee-5ae43f3ba927)
-
+![384559181-a81c26e8-804b-44b6-95ee-5ae43f3ba927](https://github.com/user-attachments/assets/255adf7b-3082-4419-a8f9-8b1e6e65d662)
 
 ## Features
 - Fetches all comments from any given Steam Workshop item.
@@ -44,7 +43,7 @@ python steam_comments_fetcher.py "https://steamcommunity.com/sharedfiles/filedet
 
 Output: `True Music Jukebox - All Comments - 20241108 16_46.html`
 
-![image](https://github.com/user-attachments/assets/a23a5b79-e11a-433e-b2a7-909fe085b00f)
+![2_384559493-a23a5b79-e11a-433e-b2a7-909fe085b00f](https://github.com/user-attachments/assets/818b79c3-28ae-44d0-9553-4b14fcf74f6f)
 
 
 ## Notes
