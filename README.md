@@ -25,6 +25,11 @@ Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
+or, depending on OS configuration:
+```
+python -m pip install -r requirements.txt
+```
+
 ## Usage
 
 1. Open a terminal and navigate to the SteamyComments directory.
