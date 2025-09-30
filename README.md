@@ -38,6 +38,8 @@ python -m pip install -r requirements.txt
 python steam_comments.py "https://steamcommunity.com/sharedfiles/filedetails/?id=3118990099"
 ```
 
+**Note:** Make sure to provide the main Steam Workshop item URL (the one that shows the mod), not a direct link to its comment section.
+
 The script will generate an HTML file named after the Workshop item title, followed by the current date and time.
 
 ## Example
